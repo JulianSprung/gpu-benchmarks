@@ -1,0 +1,5 @@
+
+# ignore the created blender benchmark files
+blender/benchmark
+
+# ignore the results logs?
